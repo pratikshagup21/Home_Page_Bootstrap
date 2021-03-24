@@ -1,0 +1,84 @@
+/* Header Section */
+
+.navbar-brand{
+	font-family: Cambria;
+	font-size: 150%;
+	font-weight: bolder;
+}
+
+li{
+	display: inline;
+	}
+
+li a{
+	color: white;
+	text-decoration: none;
+	font-family: Cambria;
+	font-weight: bold;
+	font-size: 135%;
+}
+
+/* Carousel Section */
+
+#carouselExampleControls{
+	padding-top: 7px;
+}
+
+/* Information Section */
+
+div{
+	text-align: center;
+}
+
+.calligraphy{
+	font-family: Lucida calligraphy;
+	font-weight: bold;
+	font-size: 30px;
+	color: purple;
+	padding-top: 10px;
+
+}
+
+.quote{
+	font-family: Script MT;
+	font-weight: bold;
+	font-size: 25px;
+	color: darkblue;
+}
+
+.link{
+	font-family: Cambria;
+	font-weight: bold;
+	font-size: 21px;
+}
+
+/* Footer Section */
+
+footer{
+	background-color: blue;
+	padding: 0.1px;
+	font-family: Cambria;
+	font-weight: bold;
+	color: white;
+}
+
+.copy{
+	font-size: 20px;
+	text-align: center;
+}
+
+.footh{
+	font-family: Cambria;
+	font-weight: bold;
+	text-align: left;
+	font-size: 18px;
+	text-align: center;
+}
+
+.foot1{
+	text-align: center;
+}
+
+
+
+
